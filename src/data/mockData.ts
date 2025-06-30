@@ -10,7 +10,7 @@ export const mockJobs: JobOpportunity[] = [
     description: 'Lead diversity initiatives and create inclusive workplace policies. Work with leadership to foster an environment where all employees can thrive.',
     requirements: ['Bachelor\'s degree in HR/Psychology', '3+ years D&I experience', 'LGBTQ+ advocacy experience', 'Strong communication skills'],
     isLGBTQFriendly: true,
-    postedDate: new Date('2024-01-15'),
+    postedDate: new Date('2025-06-29'),
     applyUrl: 'https://example.com/apply/1'
   },
   {
@@ -22,7 +22,7 @@ export const mockJobs: JobOpportunity[] = [
     description: 'Provide mental health support specifically for LGBTQ+ individuals. Conduct individual and group therapy sessions.',
     requirements: ['Masters in Psychology/Counseling', 'Licensed counselor', 'LGBTQ+ cultural competency', 'Bilingual preferred'],
     isLGBTQFriendly: true,
-    postedDate: new Date('2024-01-20'),
+    postedDate: new Date('2025-06-29'),
     applyUrl: 'https://example.com/apply/2'
   },
   {
@@ -34,7 +34,7 @@ export const mockJobs: JobOpportunity[] = [
     description: 'Organize community events and awareness programs. Build partnerships with local organizations.',
     requirements: ['Event management experience', 'Community engagement skills', 'Bilingual preferred', 'Social media knowledge'],
     isLGBTQFriendly: true,
-    postedDate: new Date('2024-01-18'),
+    postedDate: new Date('2025-06-28'),
     applyUrl: 'https://example.com/apply/3'
   },
   {
@@ -46,7 +46,7 @@ export const mockJobs: JobOpportunity[] = [
     description: 'Develop inclusive technology solutions and accessibility features for diverse users.',
     requirements: ['B.Tech in Computer Science', '2+ years experience', 'Accessibility standards knowledge', 'Inclusive design passion'],
     isLGBTQFriendly: true,
-    postedDate: new Date('2024-01-22'),
+    postedDate: new Date('2025-06-27'),
     applyUrl: 'https://example.com/apply/4'
   },
   {
@@ -58,7 +58,7 @@ export const mockJobs: JobOpportunity[] = [
     description: 'Implement LGBTQ+ welfare programs and policies. Work with marginalized communities.',
     requirements: ['Masters in Social Work', 'Government exam qualification', 'Community service experience', 'Regional language fluency'],
     isLGBTQFriendly: true,
-    postedDate: new Date('2024-01-25'),
+    postedDate: new Date('2025-06-27'),
     applyUrl: 'https://example.com/apply/5'
   },
   {
@@ -70,7 +70,7 @@ export const mockJobs: JobOpportunity[] = [
     description: 'Create educational content and campaigns for LGBTQ+ awareness and rights.',
     requirements: ['Content creation experience', 'LGBTQ+ advocacy knowledge', 'Video/graphic design skills', 'Social media expertise'],
     isLGBTQFriendly: true,
-    postedDate: new Date('2024-01-28'),
+    postedDate: new Date('2025-06-26'),
     applyUrl: 'https://example.com/apply/6'
   }
 ];
