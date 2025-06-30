@@ -10,7 +10,7 @@ export const mockJobs: JobOpportunity[] = [
     description: 'Lead diversity initiatives and create inclusive workplace policies. Work with leadership to foster an environment where all employees can thrive.',
     requirements: ['Bachelor\'s degree in HR/Psychology', '3+ years D&I experience', 'LGBTQ+ advocacy experience', 'Strong communication skills'],
     isLGBTQFriendly: true,
-    postedDate: new Date('2024-01-15'),
+    postedDate: new Date('2025-06-29'),
     applyUrl: 'https://example.com/apply/1'
   },
   {
