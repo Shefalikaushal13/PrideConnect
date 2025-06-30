@@ -10,7 +10,7 @@ export const mockJobs: JobOpportunity[] = [
     description: 'Lead diversity initiatives and create inclusive workplace policies. Work with leadership to foster an environment where all employees can thrive.',
     requirements: ['Bachelor\'s degree in HR/Psychology', '3+ years D&I experience', 'LGBTQ+ advocacy experience', 'Strong communication skills'],
     isLGBTQFriendly: true,
-    postedDate: new Date('2024-01-15'),
+    postedDate: new Date('2025-06-29'),
     applyUrl: 'https://example.com/apply/1'
   },
   {
@@ -22,7 +22,7 @@ export const mockJobs: JobOpportunity[] = [
     description: 'Provide mental health support specifically for LGBTQ+ individuals. Conduct individual and group therapy sessions.',
     requirements: ['Masters in Psychology/Counseling', 'Licensed counselor', 'LGBTQ+ cultural competency', 'Bilingual preferred'],
     isLGBTQFriendly: true,
-    postedDate: new Date('2024-01-20'),
+    postedDate: new Date('2025-06-29'),
     applyUrl: 'https://example.com/apply/2'
   },
   {
@@ -34,7 +34,7 @@ export const mockJobs: JobOpportunity[] = [
     description: 'Organize community events and awareness programs. Build partnerships with local organizations.',
     requirements: ['Event management experience', 'Community engagement skills', 'Bilingual preferred', 'Social media knowledge'],
     isLGBTQFriendly: true,
-    postedDate: new Date('2024-01-18'),
+    postedDate: new Date('2025-06-28'),
     applyUrl: 'https://example.com/apply/3'
   },
   {
@@ -46,7 +46,7 @@ export const mockJobs: JobOpportunity[] = [
     description: 'Develop inclusive technology solutions and accessibility features for diverse users.',
     requirements: ['B.Tech in Computer Science', '2+ years experience', 'Accessibility standards knowledge', 'Inclusive design passion'],
     isLGBTQFriendly: true,
-    postedDate: new Date('2024-01-22'),
+    postedDate: new Date('2025-06-27'),
     applyUrl: 'https://example.com/apply/4'
   },
   {
@@ -58,7 +58,7 @@ export const mockJobs: JobOpportunity[] = [
     description: 'Implement LGBTQ+ welfare programs and policies. Work with marginalized communities.',
     requirements: ['Masters in Social Work', 'Government exam qualification', 'Community service experience', 'Regional language fluency'],
     isLGBTQFriendly: true,
-    postedDate: new Date('2024-01-25'),
+    postedDate: new Date('2025-06-26'),
     applyUrl: 'https://example.com/apply/5'
   },
   {
@@ -70,7 +70,7 @@ export const mockJobs: JobOpportunity[] = [
     description: 'Create educational content and campaigns for LGBTQ+ awareness and rights.',
     requirements: ['Content creation experience', 'LGBTQ+ advocacy knowledge', 'Video/graphic design skills', 'Social media expertise'],
     isLGBTQFriendly: true,
-    postedDate: new Date('2024-01-28'),
+    postedDate: new Date('2025-06-26'),
     applyUrl: 'https://example.com/apply/6'
   }
 ];
@@ -119,7 +119,7 @@ Consider reaching out to a mental health professional if you experience:
 Remember, seeking help is a sign of strength, not weakness. Your mental health matters, and you deserve support and care.`,
     category: 'mental-health',
     author: 'Dr. Priya Sharma',
-    publishedDate: new Date('2024-01-10'),
+    publishedDate: new Date('2025-06-27'),
     readTime: 8,
     tags: ['mental-health', 'wellness', 'self-care', 'support'],
     imageUrl: 'https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg'
@@ -175,7 +175,7 @@ While significant progress has been made, challenges remain:
 Pride Month reminds us that the journey toward full equality continues, and every voice matters in this movement.`,
     category: 'pride',
     author: 'Arjun Mehta',
-    publishedDate: new Date('2024-01-12'),
+    publishedDate: new Date('2025-06-23'),
     readTime: 6,
     tags: ['pride', 'history', 'celebration', 'rights', 'india'],
     imageUrl: 'https://images.pexels.com/photos/4098369/pexels-photo-4098369.jpeg'
@@ -250,7 +250,7 @@ Common community challenges and solutions:
 Remember, building community is an ongoing process that requires patience, understanding, and commitment from everyone involved.`,
     category: 'community',
     author: 'Kavya Patel',
-    publishedDate: new Date('2024-01-14'),
+    publishedDate: new Date('2025-04-14'),
     readTime: 5,
     tags: ['community', 'support', 'connection', 'safe-spaces'],
     imageUrl: 'https://images.pexels.com/photos/3184338/pexels-photo-3184338.jpeg'
@@ -318,7 +318,7 @@ Maintaining well-being:
 Remember, you have the right to be authentic and successful in your career. While challenges exist, there are also many opportunities to create positive change and build inclusive workplaces.`,
     category: 'resources',
     author: 'Rajesh Kumar',
-    publishedDate: new Date('2024-01-16'),
+    publishedDate: new Date('2025-01-16'),
     readTime: 7,
     tags: ['workplace', 'career', 'professional', 'inclusion'],
     imageUrl: 'https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg'
@@ -328,9 +328,9 @@ Remember, you have the right to be authentic and successful in your career. Whil
 export const mockEvents: Event[] = [
   {
     id: '1',
-    title: 'Delhi Pride Parade 2024',
+    title: 'Delhi Pride Parade 2025',
     description: 'Annual pride parade celebrating LGBTQ+ rights and visibility. Join thousands in a colorful celebration of love, diversity, and equality.',
-    date: new Date('2024-06-29'),
+    date: new Date('2025-06-29'),
     location: 'Connaught Place, New Delhi',
     coordinates: { lat: 28.6315, lng: 77.2167 },
     organizer: 'Delhi Queer Pride Committee',
@@ -344,7 +344,7 @@ export const mockEvents: Event[] = [
     id: '2',
     title: 'Mental Health Support Group - Mumbai',
     description: 'Weekly support group for LGBTQ+ individuals focusing on mental health, wellness, and peer support.',
-    date: new Date('2024-02-15'),
+    date: new Date('2025-07-15'),
     location: 'Mumbai Community Center, Bandra',
     coordinates: { lat: 19.0760, lng: 72.8777 },
     organizer: 'Mumbai Pride Foundation',
@@ -358,7 +358,7 @@ export const mockEvents: Event[] = [
     id: '3',
     title: 'LGBTQ+ Career Workshop',
     description: 'Professional development and networking event focusing on career advancement and workplace inclusion.',
-    date: new Date('2024-02-20'),
+    date: new Date('2025-06-29'),
     location: 'Bangalore Tech Hub',
     coordinates: { lat: 12.9716, lng: 77.5946 },
     organizer: 'Queer Professionals Network',
@@ -372,7 +372,7 @@ export const mockEvents: Event[] = [
     id: '4',
     title: 'Rainbow Film Festival',
     description: 'Screening of LGBTQ+ themed films from around the world, followed by panel discussions.',
-    date: new Date('2024-03-15'),
+    date: new Date('2025-07-05'),
     location: 'Chennai Cultural Center',
     coordinates: { lat: 13.0827, lng: 80.2707 },
     organizer: 'Chennai Rainbow Collective',
@@ -386,7 +386,7 @@ export const mockEvents: Event[] = [
     id: '5',
     title: 'Trans Rights Workshop',
     description: 'Educational workshop on transgender rights, healthcare access, and legal protections in India.',
-    date: new Date('2024-03-20'),
+    date: new Date('2025-07-05'),
     location: 'Kolkata University',
     coordinates: { lat: 22.5726, lng: 88.3639 },
     organizer: 'Trans Rights Collective',
@@ -400,7 +400,7 @@ export const mockEvents: Event[] = [
     id: '6',
     title: 'Virtual Pride Celebration',
     description: 'Online celebration featuring performances, speakers, and community connections from across India.',
-    date: new Date('2024-06-15'),
+    date: new Date('2025-06-29'),
     location: 'Online Event',
     coordinates: null,
     organizer: 'India Pride Network',
